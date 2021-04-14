@@ -27,4 +27,4 @@ const jEspadas = {
 - 🔭 I’m currently working on my engineer degree and some freelance projects
 - 🌱 I’m currently learning about cybersecurity
 - 📫 How to reach me: [Here](https://www.julioespadas.com)
-- ⚡ Let's play videogames: Send me a meesage !
+- ⚡ Let's play videogames: Send me a message !
