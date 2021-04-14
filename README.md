@@ -1,16 +1,30 @@
-### Hi there 👋
+## Welcome to my profile 👋 !
+```yaml
+const jEspadas = {
+  "aboutMe": {
+    "name": "Julio Espadas",
+    "experience": {
+       "projectManager": "3 years",
+       "webDeveloper": "2 years"
+    },
+    "currently": "Learning about software architecture to get my engineer degree"
+  },
+  "lenguages": ["Javascript", "Java", "PHP", "NodeJS"],
+  "databases": ["MySQL,"MongoDB", "MariaDB"],
+  "frameworks": {
+    "frontEnd": {
+      "languagesFrameworks": ["React", "Vue"],
+      "css": ["Bootstrap", "Material-ui"]
+    },
+    "backEnd": ["ExpressJS", "Spring Boot", "Laravel"],
+    "devOps": ["Docker", "Git"],
+  },
+  "architectures": ["Monolithe", "Microservices"],
+  "personalProject": "Learning about cybersecurity"
+};
+```
 
-<!--
-**jespadas/jespadas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on my engineer degree and some freelance projects
+- 🌱 I’m currently learning about cybersecurity
+- 📫 How to reach me: [Here](https://www.julioespadas.com)
+- ⚡ Let's play videogames: Send me a meesage !
