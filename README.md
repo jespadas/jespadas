@@ -17,7 +17,6 @@ const jEspadas = {
       "css": ["Bootstrap", "Material-ui"]
     },
     "backEnd": ["ExpressJS", "Spring Boot", "Laravel"],
-    "devOps": ["Docker", "Git"],
   },
   "architectures": ["Monolithe", "Microservices"],
   "personalProject": "Learning about cybersecurity"
