@@ -9,7 +9,7 @@ const julioEspadas = {
     },
     "currently": "Learning about software architecture to get my engineer degree"
   },
-  "lenguages": ["Javascript", "Java", "PHP", "NodeJS"],
+  "lenguages": ["Javascript", "Java", "PHP"],
   "databases": ["MySQL,"MongoDB", "MariaDB"],
   "frameworks": {
     "frontEnd": {
@@ -18,7 +18,7 @@ const julioEspadas = {
     },
     "backEnd": ["ExpressJS", "Spring Boot", "Laravel"],
   },
-  "architectures": ["Monolithe", "Microservices"],
-  "personalProject": "Learning about cybersecurity"
+  "architectures": ["Monolithe", "Microservices", "Stateless"],
+  "personalGoal": "Learning about cybersecurity"
 };
 ```
