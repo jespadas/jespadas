@@ -1,6 +1,6 @@
 ## Welcome 👋 !
 ```yaml
-const jEspadas = {
+const julioEspadas = {
   "aboutMe": {
     "name": "Julio Espadas",
     "experience": {
